@@ -1,7 +1,7 @@
 # 🏬 Superstore Profitability Analysis
 
 ![Status](https://img.shields.io/badge/Status-Completed-green)
-![Tools](https://img.shields.io/badge/Tools-SQL%20|%20Python%20|%20Power%20BI%20|%20Excel-blue)
+![Tools](https://img.shields.io/badge/Tools-SQL%20|%20Tableau%20|%20Excel-blue)
 
 ---
 
