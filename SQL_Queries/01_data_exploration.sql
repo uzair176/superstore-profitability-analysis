@@ -1,9 +1,8 @@
 /*
 ===============================================================================
-Project: Superstore Profitability & Revenue Leakage Analysis
+Project: Superstore Profitability Analysis
 File: 01_data_exploration.sql
-Description: Initial data exploration to understand the dataset's size, 
-             timeframe, and high-level Key Performance Indicators (KPIs).
+
 ===============================================================================
 */
 
