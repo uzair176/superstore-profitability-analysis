@@ -113,10 +113,10 @@ All charts are available in the [`Visualizations/`](./Visualizations) folder. Ke
 
 | Visualization | What It Shows |
 |---------------|---------------|
-| Profit by Region | Regional profit comparison highlighting loss areas |
-| Discount vs. Profit Scatter | Negative correlation between discount level and profit |
-| Sub-Category Profit Ranking | Top profitable and loss-making sub-categories |
-| Segment Profitability | Profit contribution by Consumer, Corporate, and Home Office |
+| Profit_by_Category.png | Shows which product categories generate the most and least profit |
+| Region_by_Profit.png | Compares profit performance across different regions |
+| Sales_by_Region.png | Displays total sales distribution by region |
+| Monthly_Sales.png | Shows monthly sales trends to identify seasonal patterns |
 
 ### 📊 Interactive Dashboard
 
