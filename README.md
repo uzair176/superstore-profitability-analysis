@@ -120,6 +120,9 @@ All charts are available in the [`Visualizations/`](./Visualizations) folder. Ke
 
 ### 📊 Interactive Dashboard
 
+![Dashboard Screenshot](Visualizations/dashboard_screenshot.jpeg)
+
+
 Explore the full interactive dashboard on Tableau Public:
 
 🔗 **[Superstore Profitability Dashboard](https://public.tableau.com/views/superstore_17705621059380/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
