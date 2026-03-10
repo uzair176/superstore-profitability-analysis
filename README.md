@@ -53,18 +53,16 @@ The dataset represents order-level sales data for a US-based retail superstore c
 
 ## 📁 Project Structure
 
+
+```
 Superstore-Profitability-Analysis/
 │
-├── Data/ # Raw dataset files
-│
-├── Python_Analysis/ # Python scripts for data analysis
-│
-├── SQL_Queries/ # SQL queries used for analysis
-│
-├── Visualizations/ # Dashboard screenshots and charts
-│
-└── README.md # Project documentation
-
+├── Data/               # Raw dataset files
+├── Python_Analysis/    # Python scripts for data analysis
+├── SQL_Queries/        # SQL queries used for analysis
+├── Visualizations/     # Dashboard screenshots and charts
+└── README.md           # Project documentation
+```
 
 ---
 
