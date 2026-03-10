@@ -168,22 +168,28 @@ jupyter notebook Python_Analysis/Superstore_Profit_Analysis.ipynb
 ---
 
 ## 🔮 Future Improvements
- Build a predictive model to forecast profit by region and category
- Add time-series analysis to identify seasonal profitability patterns
- Perform customer-level RFM segmentation for targeted marketing recommendations
- Conduct shipping cost analysis to isolate logistics-driven losses
- Automate reporting with a scheduled Python pipeline
 
- 
+- Build a predictive model to forecast profit by region and category  
+- Add time-series analysis to identify seasonal profitability patterns  
+- Perform customer-level RFM segmentation for targeted marketing recommendations  
+- Conduct shipping cost analysis to isolate logistics-driven losses  
+- Automate reporting with a scheduled Python pipeline  
+
+
 ### 👤 Author
-Uzair Mukhtar
 
-Aspiring Data & Business Analyst with a passion for turning raw data into clear, actionable business insights.
+**Uzair Mukhtar**
 
-💼 **[LinkedIn](https://www.linkedin.com/in/uzair-mukhtar-b65ab6324)**
-📧 uzairmukhtar176@gmail.com
+Aspiring **Data & Business Analyst** with a passion for turning raw data into clear, actionable business insights.
 
-⭐ If you found this project useful or interesting, please consider giving it a star!
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/uzair-mukhtar-b65ab6324
+
+📧 **Email:**  
+uzairmukhtar176@gmail.com
+
+
+⭐ If you found this project useful or interesting, please consider giving it a **star**.
 
 
 
